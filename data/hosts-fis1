@@ -20,5 +20,5 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-#	127.0.0.1       discord.com www.discord.com
-#	12.2.3.4       youtube.com www.youtube.com
+	127.0.0.1       discord.com www.discord.com
+	12.2.3.4       youtube.com www.youtube.com
